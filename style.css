@@ -24,7 +24,7 @@ nav a {
   color: #330c0c;
   padding: 5px 10px;
   border-radius: 8px;
-  background: #d4ba45;
+  background: #d43abb;
   transition: all 0.2s;
 }
 
@@ -35,12 +35,12 @@ nav a:hover {
 }
 
 .diary {
-  background: #cf9f26;
+  background: #e830ae;
   padding: 20px;
   border-radius: 16px;
   margin: 20px auto;
   max-width: 600px;
-  box-shadow: 0 0 10px rgba(255, 102, 178, 0.2);
+  box-shadow: 0 0 10px rgba(196, 10, 103, 0.2);
 }
 
 .gallery .photos {
