@@ -1,7 +1,7 @@
 body {
-  background: linear-gradient(to bottom, #fff5fb, #e0eafc);
+  background: linear-gradient(to bottom, #aa4fc8, #41256f);
   font-family: 'Quicksand', sans-serif;
-  color: #333;
+  color: #000000d0;
   padding: 20px;
   margin: 0;
 }
@@ -10,7 +10,7 @@ header h1 {
   font-family: 'Press Start 2P', cursive;
   font-size: 1.5em;
   text-align: center;
-  color: #ff66b2;
+  color: #f66db2;
 }
 
 nav {
@@ -21,21 +21,21 @@ nav {
 nav a {
   margin: 0 15px;
   text-decoration: none;
-  color: #6b6b6b;
+  color: #330c0c;
   padding: 5px 10px;
   border-radius: 8px;
-  background: #fce4ec;
+  background: #d4ba45;
   transition: all 0.2s;
 }
 
 nav a:hover {
   background: #ff66b2;
-  color: white;
-  box-shadow: 0 0 5px #ff66b2;
+  color: rgb(0, 0, 0);
+  box-shadow: 0 0 5px #c20362;
 }
 
 .diary {
-  background: #fff0f5;
+  background: #cf9f26;
   padding: 20px;
   border-radius: 16px;
   margin: 20px auto;
